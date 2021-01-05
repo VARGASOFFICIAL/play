@@ -47,7 +47,7 @@ Jangan Lupa Scan QR
 > return m 'javascript eval' + m.sender
 
 =======*「 INFO 」*=======
-Coded using *Vim* on Android \\w Termux
+
 YouTube: 
 https://youtube.com/channel/UCNUXc-wvktd1xmH9HLEpnWQ
 
